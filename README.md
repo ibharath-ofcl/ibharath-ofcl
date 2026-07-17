@@ -130,13 +130,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ibharath-ofcl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=ibharath-ofcl&theme=tokyonight" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibharath-ofcl&theme=tokyonight" width="97%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=ibharath-ofcl&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
