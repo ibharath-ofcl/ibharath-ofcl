@@ -130,9 +130,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibharath-ofcl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ibharath-ofcl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibharath-ofcl&theme=tokyonight" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ibharath-ofcl&theme=tokyonight" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
