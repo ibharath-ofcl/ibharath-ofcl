@@ -112,12 +112,6 @@
 
 ## 🏆 Coding Milestones & Certifications
 
-<p align="center">
-  <a href="https://leetcode.com/u/ibharathofcl/">
-    <img src="https://leetcard.jacob.cst.to/ibharathofcl?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
-  </a>
-</p>
-
 ### 📜 Certifications & Credentials
 - 📈 **Deloitte (Forage) Data Analytics Virtual Experience** (2026) — *Telemetry analysis with Tableau, Business Intelligence.*
 - 🧠 **Wipro-Future Skills Prime** (2026) — *AI & ML, Cloud Computing (Azure/AWS), Data Science.*
