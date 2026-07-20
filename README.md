@@ -132,3 +132,7 @@
 <p align="center">
   💻 Made with ❤️ by Boddu Venkata Bharath
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3EC6E0&customColorEnd=6C63FF&height=80&section=footer" width="100%" />
+</p>
